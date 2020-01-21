@@ -1,1 +1,2 @@
 Welcome to the GIT hands-on - from local to central
+Change from the central repository
